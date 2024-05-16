@@ -257,7 +257,7 @@ namespace UnityEngine.XR.Interaction.Toolkit.Samples.StarterAssets
                 if (rayInteractorIndex < 0)
                 {
                     // Must add Ray interactor to group
-                    m_ManipulationInteractionGroup.AddGroupMember(m_RayInteractor);
+                    //m_ManipulationInteractionGroup.AddGroupMember(m_RayInteractor);
                 }
                 else
                 {
