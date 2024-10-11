@@ -1,4 +1,2 @@
 # Tutorial-Repo
-For a tutorial
-
-Another change
+For a tutorial!
